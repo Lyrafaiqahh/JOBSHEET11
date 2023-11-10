@@ -2,8 +2,7 @@ import java.util.Scanner;
 public class NestedLoop_2341760013 {
  public static void main(String[] args) {
  Scanner scanner = new Scanner(System.in);
- // Asumsi: dimsensi array sudah ditentukan sebelumnya, misalnya 3x3
- double[][] temps = new double[3][3];
+ double[][] temps = new double[5][7];
  // Mengisi data ke array
  for (int i = 0; i < temps.length; i++) {
  System.out.println("Kota ke-" + i);
