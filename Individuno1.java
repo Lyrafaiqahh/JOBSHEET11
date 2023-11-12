@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Individuno1 {
-    // TINGGAL BALIKIN AJA DARI 1  KE PANJANG
+    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
